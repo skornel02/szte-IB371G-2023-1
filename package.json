@@ -1,0 +1,8 @@
+{
+	"scripts": {
+		"hazi1": "md-to-pdf ./hazi1.md"
+	},
+	"dependencies": {
+		"md-to-pdf": "^5.2.4"
+	}
+}
