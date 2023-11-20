@@ -1,6 +1,7 @@
 {
 	"scripts": {
-		"hazi1": "md-to-pdf ./hazi1.md"
+		"hazi:1": "md-to-pdf ./hazi1.md",
+		"hazi:2": "md-to-pdf ./hazi2.md"
 	},
 	"dependencies": {
 		"md-to-pdf": "^5.2.4"
